@@ -29,7 +29,9 @@ ros::Publisher record;
 class message {
 private:
     const char *messege = R"(
-    Control Your Bebop2.0!
+    
+    Safety is always priority!
+    
     ----------------------------------------------------
 
     SpaceBar : Take off / Landing
